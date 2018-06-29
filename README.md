@@ -1,2 +1,3 @@
 # hello-world
-To create a new repository
+
+I love my two dogs, Hero and Luna!
